@@ -1,302 +1,298 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:161B22,100:0D1117&text=BHAVYA%20MODI&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=AI%20%2F%20ML%20%20%7C%20%20DATA%20SCIENCE%20%20%7C%20%20INTELLIGENT%20SYSTEMS&descSize=17&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:05070A,35:0B1220,70:101B35,100:05070A&text=BHAVYA%20%2F%2F%20AI%20LAB&fontSize=52&fontColor=58A6FF&fontAlignY=38&desc=INTELLIGENCE%20%7C%20LEARNING%20%7C%20SYSTEMS&descSize=16&descAlignY=58&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=building+intelligent+systems;learning+machine+learning+by+building;exploring+deep+learning+%7C+NLP+%7C+GenAI;turning+ideas+into+working+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=600&color=58A6FF&center=true&vCenter=true&width=850&lines=%5BSYSTEM%5D+INITIALIZING+AI+LAB...;%5BSYSTEM%5D+MACHINE+LEARNING+ONLINE;%5BSYSTEM%5D+DEEP+LEARNING+ONLINE;%5BSYSTEM%5D+NLP+%2B+GENAI+LOADED;%5BSYSTEM%5D+BUILDING+INTELLIGENT+SYSTEMS" />
 
 <br><br>
 
 <a href="https://github.com/bhavya277">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E__GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/bhavya-modi-9a9b28312">
-<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/%3E__LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 &nbsp;
 <a href="https://bhavyamodi27.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E__PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
 </a>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### `01 / IDENTITY`
-
-# I build to understand.
-
-**B.Tech IT · Data Science & Analytics**
-
-I'm interested in the space where **data, learning algorithms, and software engineering** meet.
-
-My current trajectory:
-
-`DATA` → `MACHINE LEARNING` → `DEEP LEARNING` → `GENERATIVE AI` → `INTELLIGENT SYSTEMS`
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                  B H A V Y A   M O D I                       ║
+║                                                              ║
+║              AI / ML  ·  DATA  ·  SYSTEMS                   ║
+║                                                              ║
+║   ───────────────────────────────────────────────────────    ║
+║                                                              ║
+║   I DON'T JUST WANT TO USE AI.                               ║
+║   I WANT TO UNDERSTAND IT.                                  ║
+║   THEN BUILD SOMETHING WITH IT.                             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br>
 
-<table align="center">
+## `// SYSTEM PROFILE`
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### `WHAT I CARE ABOUT`
+### IDENTITY
 
-```text
-01  Machine Learning
-02  Deep Learning
-03  Natural Language Processing
-04  Generative AI
-05  Data Science
-06  AI Systems
-07  ML Engineering
-08  Cybersecurity + AI
+```yaml
+name: Bhavya Modi
+role: AI / ML Builder
+education: B.Tech IT
+specialization: Data Science & Analytics
+location: India
+
+status:
+  learning: true
+  building: true
+  experimenting: true
+  shipping: true
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### `HOW I LEARN`
+### CORE INTEREST
 
 ```text
-       LEARN
-         ↓
-      EXPERIMENT
-         ↓
-       BUILD
-         ↓
-        BREAK
-         ↓
-     UNDERSTAND
-         ↓
-       IMPROVE
-         ↓
-       REPEAT
+             ┌─────────────┐
+             │     DATA    │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │     ML      │
+             └──────┬──────┘
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+     DEEP LEARNING          NLP
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+               GENERATIVE AI
+                    │
+                    ▼
+            INTELLIGENT SYSTEMS
 ```
 
 </td>
 </tr>
 </table>
 
-<br>
-
 ---
 
 <div align="center">
 
-### `02 / ML RADAR`
+## `// AI STACK`
+
+### `01` — LEARN
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+
+<br><br>
+
+### `02` — ANALYZE
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+<img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=150458"/>
+<img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0B1220?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+
+<br><br>
+
+### `03` — ENGINEER
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,mongodb,firebase,git,docker&theme=dark" />
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## `// NEURAL DIRECTION`
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+
+<td align="center" width="20%">
 
 ### 🧠
 
+**MACHINE**
 **LEARNING**
 
-Machine Learning
-Deep Learning
-Statistics
+</td>
+
+<td align="center">
+
+→
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### 🔬
+### ⚡
 
-**EXPLORING**
-
-NLP
-Generative AI
-LLMs
+**DEEP**
+**LEARNING**
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### ⚙️
-
-**ENGINEERING**
-
-Python
-FastAPI
-APIs
-Databases
+→
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### 🚀
+### ◉
 
-**BUILDING**
-
-AI Applications
-ML Systems
-Experiments
+**NLP**
 
 </td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center" width="20%">
+
+### ✦
+
+**GENAI**
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center" width="20%">
+
+### ∞
+
+**AI SYSTEMS**
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
----
-
 <div align="center">
-
-### `03 / TECHNOLOGY`
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-### AI / ML
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge\&logo=tensorflow\&logoColor=FF6F00)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge\&logo=scikit-learn\&logoColor=F7931E)
-
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge\&logo=pandas\&logoColor=150458)
-
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge\&logo=numpy\&logoColor=013243)
-
-</td>
-
-<td valign="top" width="33%">
-
-### DEVELOPMENT
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=009688)
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge\&logo=node.js\&logoColor=5FA04E)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
-
-</td>
-
-<td valign="top" width="33%">
-
-### INFRASTRUCTURE
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge\&logo=firebase\&logoColor=FFCA28)
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
-
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<div align="center">
-
-### `04 / CURRENT STATE`
-
-</div>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  CURRENTLY                                                  │
-│                                                              │
-│  → strengthening ML fundamentals                            │
-│  → exploring deep learning architectures                    │
-│  → experimenting with NLP & Generative AI                   │
-│  → building AI-powered applications                         │
-│  → learning how intelligent systems work under the hood      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                    ┌───────────────────┐
+                    │   INTELLIGENCE    │
+                    └─────────┬─────────┘
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+              ▼               ▼               ▼
+         ┌─────────┐     ┌─────────┐     ┌─────────┐
+         │  DATA   │     │  MODEL  │     │ SYSTEM  │
+         └────┬────┘     └────┬────┘     └────┬────┘
+              │               │               │
+              └───────────────┼───────────────┘
+                              ▼
+                    ┌───────────────────┐
+                    │     BUILD /       │
+                    │     EXPERIMENT    │
+                    └───────────────────┘
 ```
-
-<br>
-
-<div align="center">
-
-**The goal isn't to collect frameworks.**
-
-**The goal is to understand systems deeply enough to build them.**
 
 </div>
 
-<br>
+---
+
+## `// CURRENT PROCESS`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=01+%2F+UNDERSTAND+THE+PROBLEM;02+%2F+STUDY+THE+FUNDAMENTALS;03+%2F+BUILD+THE+MODEL;04+%2F+CONNECT+THE+SYSTEM;05+%2F+TEST+%2F+BREAK+%2F+IMPROVE;06+%2F+SHIP" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### `05 / ENGINEERING MINDSET`
+## `// RESEARCH MINDSET`
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
-**01**
+### `01`
 
-### Understand
+**QUESTION**
 
-Don't treat models as black boxes.
-
-</td>
-
-<td align="center">
-
-**02**
-
-### Experiment
-
-Test ideas instead of assuming they work.
+What are we actually trying to solve?
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-**03**
+### `02`
 
-### Build
+**UNDERSTAND**
 
-Turn concepts into usable systems.
+What is happening under the hood?
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-**04**
+### `03`
 
-### Iterate
+**EXPERIMENT**
 
-Measure → improve → repeat.
+Does the idea survive reality?
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+**BUILD**
+
+Can it become a real system?
 
 </td>
 </tr>
@@ -304,94 +300,107 @@ Measure → improve → repeat.
 
 <br>
 
+<div align="center">
+
+> **Learn the concept. Build the experiment. Break the experiment. Understand why.**
+
+</div>
+
 ---
 
-<div align="center">
+# `// GITHUB CORE`
 
 <div align="center">
 
-### `06 / GITHUB TELEMETRY`
+<img src="https://github-readme-stats.vercel.app/api?username=bhavya277&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=05070A&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&card_width=430" width="430"/>
 
-<br>
+   
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=bhavya277&show_icons=true&hide_border=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"
-  width="450"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya277&layout=compact&hide_border=true&langs_count=6&card_width=350&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
-  width="350"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya277&layout=compact&hide_border=true&langs_count=6&bg_color=05070A&title_color=58A6FF&text_color=8B949E&card_width=330" width="330"/>
 
 <br><br>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=bhavya277&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-  width="92%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavya277&bg_color=05070A&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="94%"/>
 
 </div>
-
-<div align="center">
-
-### `07 / THE DIRECTION`
-
-<br>
-
-```text
-                         AI / ML
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-           LEARN          BUILD        RESEARCH
-              │             │             │
-              └─────────────┼─────────────┘
-                            │
-                            ▼
-                  INTELLIGENT SYSTEMS
-```
-
-<br>
-
-**From understanding models → to engineering systems around them.**
-
-</div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### `08 / CONNECT`
+## `// SYSTEM STATUS`
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  MACHINE LEARNING          ████████████████░░░   ACTIVE   │
+│  DEEP LEARNING             ████████████░░░░░░░   ACTIVE   │
+│  DATA SCIENCE              █████████████████░░░   ACTIVE   │
+│  NLP                       ██████████░░░░░░░░░   EXPLORING │
+│  GENERATIVE AI             ███████████░░░░░░░░   EXPLORING │
+│  AI SYSTEMS                ████████░░░░░░░░░░░   BUILDING │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `// NEXT TARGET`
 
 <br>
 
-I'm always interested in **AI, ML, data, research, and people who like building things.**
+```text
+                 ┌──────────────────────────┐
+                 │                          │
+                 │     UNDERSTAND MORE      │
+                 │           ↓              │
+                 │       BUILD MORE         │
+                 │           ↓              │
+                 │      THINK DEEPER        │
+                 │           ↓              │
+                 │     SHIP SOMETHING       │
+                 │                          │
+                 └──────────────────────────┘
+```
+
+<br>
+
+### **The destination isn't another framework.**
+
+### **It's the ability to build intelligent systems from first principles.**
+
+</div>
+
+---
+
+<div align="center">
+
+## `// CONNECT`
 
 <br>
 
 <a href="https://github.com/bhavya277">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-05070A?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
  
 
 <a href="https://www.linkedin.com/in/bhavya-modi-9a9b28312">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-05070A?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 
  
 
 <a href="https://bhavyamodi27.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-05070A?style=for-the-badge&logo=vercel&logoColor=58A6FF"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,50:161B22,100:0D1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:05070A,40:0B1220,70:101B35,100:05070A&animation=twinkling" width="100%"/>
 
 </div>
