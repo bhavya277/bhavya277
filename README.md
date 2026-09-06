@@ -49,11 +49,25 @@ I’m currently going deeper into **Machine Learning and Deep Learning**, while 
 
 ### `§ TELEMETRY`
 
-<div align="center"> <img src="./assets/stats.svg" width="49%" alt="GitHub stats" /> <img src="./assets/top-langs.svg" width="30%" alt="Top languages" /> <br/> <img src="./assets/streak.svg" width="60%" alt="Current contribution streak" /> </div>
+<div align="center">
+  <img src="./assets/stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./assets/top-langs.svg" width="30%" alt="Top languages" />
+  <br/>
+  <img src="./assets/streak.svg" width="60%" alt="Current contribution streak" />
+</div>
 
 <sub>Generated once a day by a workflow in this repo (<code>.github/workflows/telemetry.yml</code>) and committed as static files — no live third-party call, so it can't go down or hit a rate limit. If it's ever stale, the source is the <a href="https://github.com/bhavya277?tab=repositories">repositories tab</a>.</sub>
 
-<br/> <br/> <div align="center"> <table> <tr><td><b>LEARNING</b></td><td>ACTIVE</td></tr> <tr><td><b>BUILDING</b></td><td>ACTIVE</td></tr> <tr><td><b>DIRECTION</b></td><td>AI / ML</td></tr> </table>
+<br/>
+<br/>
+
+<div align="center">
+
+<table>
+<tr><td><b>LEARNING</b></td><td>ACTIVE</td></tr>
+<tr><td><b>BUILDING</b></td><td>ACTIVE</td></tr>
+<tr><td><b>DIRECTION</b></td><td>AI / ML</td></tr>
+</table>
 
 <a href="https://github.com/bhavya277">GitHub</a> · <a href="https://www.linkedin.com/in/bhavya-modi-9a9b28312">LinkedIn</a> · <a href="https://bhavyamodi27.vercel.app/">Portfolio</a>
 
