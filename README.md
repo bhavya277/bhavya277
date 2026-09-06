@@ -4,7 +4,11 @@
 
 <br/>
 
-I build small, working things while learning the theory behind them — the honest version of "learning AI," where the repos are the notebook and this page is the cover sheet. Currently oriented toward machine learning, deep learning, and generative systems, with data science as the foundation under all of it.
+I am a B.Tech Information Technology student specializing in Data Science & Analytics. My journey is centered around strengthening my foundations in machine learning, exploring intelligent systems, and building practical software that brings AI and data-driven ideas into real applications.
+
+I focus on bridging the gap between machine learning and practical software systems: developing data analysis and machine learning workflows with Python, Pandas, NumPy, and Scikit-learn; exploring deep learning with PyTorch and TensorFlow; building full-stack applications with React, Node.js, and FastAPI; and experimenting with NLP and generative AI to understand how intelligent applications are built beyond simply calling an API.
+
+I believe in learning by building real, verifiable projects. I prefer understanding the fundamentals, experimenting with them, and turning what I learn into working systems through hands-on development, debugging, and iteration.
 
 <br/>
 
@@ -39,7 +43,7 @@ Nothing here ships clean on the first pass. The loop closing back to <i>understa
 
 ### `§ CURRENTLY EXPLORING`
 
-Deep learning architectures, NLP fundamentals, and how LLM-based systems are actually put together — past the point of calling an API, into how the pieces underneath it work.
+Deep learning architectures, NLP fundamentals, generative AI, and how LLM-based systems are actually put together — moving beyond simply calling an API and developing a deeper understanding of the models, workflows, and systems underneath them.
 
 <br/>
 
