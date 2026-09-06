@@ -308,29 +308,32 @@ Measure → improve → repeat.
 
 <div align="center">
 
+<div align="center">
+
 ### `06 / GITHUB TELEMETRY`
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhavya277&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=bhavya277&show_icons=true&hide_border=true&include_all_commits=true&card_width=450&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"
+  width="450"
+/>
 
-  
+&nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya277&layout=compact&hide_border=true&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya277&layout=compact&hide_border=true&langs_count=6&card_width=350&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
+  width="350"
+/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya277&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavya277&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="92%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=bhavya277&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+  width="92%"
+/>
 
 </div>
-
-<br>
-
----
 
 <div align="center">
 
