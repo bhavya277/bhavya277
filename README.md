@@ -46,11 +46,11 @@ Deep learning architectures, NLP fundamentals, and how LLM-based systems are act
 ### `§ TELEMETRY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavya277&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4FA8FF&text_color=E6EDF3&icon_color=8B7CF6" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya277&layout=compact&hide_border=true&bg_color=0D1117&title_color=4FA8FF&text_color=E6EDF3" width="30%" alt="Top languages" />
+  <img src="./assets/stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./assets/top-langs.svg" width="30%" alt="Top languages" />
 </div>
 
-<sub>Rendered by github-readme-stats (community service, not affiliated with GitHub). If a card fails to load, the underlying data is still visible on the <a href="https://github.com/bhavya277?tab=repositories">repositories tab</a> directly.</sub>
+<sub>Generated once a day by a workflow in this repo (<code>.github/workflows/telemetry.yml</code>) and committed as static files — no live third-party call, so it can't go down or hit a rate limit. If it's ever stale, the source is the <a href="https://github.com/bhavya277?tab=repositories">repositories tab</a>.</sub>
 
 <br/>
 <br/>
