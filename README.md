@@ -4,11 +4,11 @@
 
 <br/>
 
-I am a B.Tech Information Technology student specializing in Data Science & Analytics. My journey is centered around strengthening my foundations in machine learning, exploring intelligent systems, and building practical software that brings AI and data-driven ideas into real applications.
+I’m **Bhavya Modi**, a B.Tech Information Technology student specializing in **Data Science & Analytics**. I’m interested in understanding how things work under the hood and turning what I learn into something I can actually build.
 
-I focus on bridging the gap between machine learning and practical software systems: developing data analysis and machine learning workflows with Python, Pandas, NumPy, and Scikit-learn; exploring deep learning with PyTorch and TensorFlow; building full-stack applications with React, Node.js, and FastAPI; and experimenting with NLP and generative AI to understand how intelligent applications are built beyond simply calling an API.
+Most of my time goes into **Machine Learning, Deep Learning, NLP, Generative AI, and Data Science**, along with the software engineering needed to turn those ideas into working applications. I enjoy moving between data, models, APIs, and interfaces rather than keeping everything inside a notebook.
 
-I believe in learning by building real, verifiable projects. I prefer understanding the fundamentals, experimenting with them, and turning what I learn into working systems through hands-on development, debugging, and iteration.
+I learn best by building. I like taking a concept, experimenting with it, breaking things along the way, figuring out why they broke, and then making it better. That process is what keeps me interested in AI and ML.
 
 <br/>
 
@@ -16,7 +16,7 @@ I believe in learning by building real, verifiable projects. I prefer understand
 
 <img src="./assets/pipeline.svg" width="100%" alt="Learning signal path: data to intelligent systems" />
 
-Each block above is a stage I've either worked through or am actively working through right now — not a roadmap I'm hoping to get to.
+The things I’m working on are connected — from understanding data and ML fundamentals to exploring deeper models, NLP, and generative AI, and eventually putting those pieces together into useful systems.
 
 <br/>
 
@@ -37,13 +37,13 @@ Each block above is a stage I've either worked through or am actively working th
 
 <img src="./assets/process.svg" width="100%" alt="Closed-loop process: understand, experiment, build, break, analyze, improve, ship" />
 
-Nothing here ships clean on the first pass. The loop closing back to <i>understand</i> is the actual point — breaking things is what tells me what I didn't understand yet.
+I don’t expect the first version to be perfect. I’d rather build something, find where it falls apart, understand why, and keep going until it actually makes sense.
 
 <br/>
 
 ### `§ CURRENTLY EXPLORING`
 
-Deep learning architectures, NLP fundamentals, generative AI, and how LLM-based systems are actually put together — moving beyond simply calling an API and developing a deeper understanding of the models, workflows, and systems underneath them.
+I’m currently going deeper into **Machine Learning and Deep Learning**, while exploring **NLP and Generative AI**. I’m especially interested in what happens behind the APIs — how models work, how they are used in real systems, and how all the pieces come together.
 
 <br/>
 
